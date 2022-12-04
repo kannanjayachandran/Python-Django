@@ -1,0 +1,9 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1625643473416/work
+certifi==2022.9.24
+Django @ file:///tmp/build/80754af9/django_1625585912945/work
+psycopg2 @ file:///C:/ci_310/psycopg2_1642085998310/work
+python-decouple @ file:///home/conda/feedstock_root/build_artifacts/python-decouple_1643839541685/work
+pytz @ file:///C:/Windows/TEMP/abs_90eacd4e-8eff-491e-b26e-f707eba2cbe1ujvbhqz1/croots/recipe/pytz_1654762631027/work
+sqlparse @ file:///tmp/build/80754af9/sqlparse_1602184451250/work
+typing_extensions @ file:///opt/conda/conda-bld/typing_extensions_1647553014482/work
+wincertstore==0.2
