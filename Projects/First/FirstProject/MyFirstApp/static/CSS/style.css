@@ -1,5 +1,7 @@
-* {
-    background-color: blanchedalmond;
+html {
+    background-color: rgb(232, 229, 224);
     text-align: center;
-    color: rgb(111, 20, 214);
+    color: rgb(11, 35, 60);
+    font-family: "Helvetica", Times, serif;
+    font-size: 50px;
 }

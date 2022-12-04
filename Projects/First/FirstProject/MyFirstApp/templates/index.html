@@ -1,20 +1,15 @@
 <!DOCTYPE html>
-
 {% load static %}
-
 <html>
   <head>
+    <link rel="stylesheet" type="text/css" href="{%static '/CSS/style.css'%}" />
+
     <title>My First Django App</title>
 
-    <link
-      rel="stylesheet"
-      type="text/css"
-      href="{% static 'css/style.css' %}"
-    />
-
     <body>
-      <p>This is my first Djano Project</p>
-      <script type="text/javascript" src="{% static 'js/script.js' %}"></script>
+      <p>This is my first Django Project</p>
+
+      <script type="text/javascript" src="{%static '/JS/script.js'%}"></script>
     </body>
   </head>
 </html>
